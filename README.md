@@ -1,8 +1,3 @@
-
-
-macOS: 13.7 (22H123)
-
-
 # Overview
 This is an open-source EFI folder for running macOS on the Jingyue B450M PRO motherboard using the latest version of OpenCore. 
 
